@@ -38,5 +38,6 @@ The provided code includes basic examples of data cleaning and transformation te
 The project utilizes PowerBI tool to generate dashboard with help of visualization skill.
 
 
+<img width="578" alt="image" src="https://github.com/Banti133/Scrape-Sight/assets/134291468/549823be-2f6f-486a-bd55-a36f48c67815">
 
 
